@@ -1,1 +1,4 @@
-
+This lab contains<br>
+1.Calculating Mean Train and Test error using Linear Reggresion<br>
+2.Grouping the similar data elements using K means clustering.<br>
+3.Image Annotation using the Clarifai API by creating Keyframes and Mainframes
