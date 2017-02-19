@@ -1,1 +1,6 @@
-
+<b>This lab contains image classification which consist of</b>
+Feature Extraction using SIFT
+Kmeans clustering of the key points
+Bag of words and histogram creation based on the clusters
+Random tree generation
+Confusion matrix to check the accuracy of the model
