@@ -7,6 +7,7 @@ This repository contains all the lab assignments and projects of Big Data Analyt
 <b>Lab 2</b>: https://github.com/nikky4222/BigDataSpring2017/wiki/Lab-Assignment-2<br>
 <b>Lab 3</b>: https://github.com/nikky4222/BigDataSpring2017/wiki/Lab-Assignment-3<br>
 <b>Lab 4</b>:https://github.com/nikky4222/BigDataSpring2017/wiki/Lab-Assignment-4<br>
-<b>Lab 5</b>:https://github.com/nikky4222/BigDataSpring2017/wiki/Lab-Assignment-5
+<b>Lab 5</b>:https://github.com/nikky4222/BigDataSpring2017/wiki/Lab-Assignment-5<br>
+<b>Project Increment 1</b>:https://github.com/nikky4222/BigDataSpring2017/blob/master/Project/Increment1/report%201.docx
 
 
