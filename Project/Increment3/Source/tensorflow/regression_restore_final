@@ -1,0 +1,13 @@
+import tensorflow as tf
+import numpy as np
+
+saver = tf.train.import_meta_graph("/home/prudhvi/Desktop/inc_3/data/logs/model1.meta")
+sess = tf.Session()
+saver.restore(sess, "/home/prudhvi/Desktop/inc_3/data/logs/model1")
+
+transfer_pascal_1=np.float32(np.load('trasfer_pascel.npy'))
+
+
+result = sess.run("Relu_3:0", feed_dict={"1:0":np.reshape(transfer_pascal_1[2],(1,2048))})
+
+
